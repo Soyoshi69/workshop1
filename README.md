@@ -4,5 +4,6 @@ this project is to learn git and github
 
 ## topics
 -git basics
--commits
--branches
+
+## Event details
+This is my first feature branch
